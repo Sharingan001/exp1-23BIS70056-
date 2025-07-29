@@ -23,3 +23,21 @@ Create a basic student registration form using HTML. The form should collect the
 ---
 
 ## Code
+![Student Form Screenshot](./assets/html.png)
+
+![Student Form Screenshot](./assets/style1.png)
+
+![Student Form Screenshot](./assets/style2.png)
+
+##output: 
+![Student Form Screenshot](./assets/output1.png)
+![Student Form Screenshot](./assets/output2.png)
+
+Learning Outcomes
+ Gained understanding of HTML5 input types and their purposes.
+
+Learned to use form validation attributes like required, type, min, and max.
+
+ Developed a basic yet functional web form using only HTML.
+
+ No JavaScript required – purely HTML5-based validation.
