@@ -31,7 +31,7 @@ Create a basic student registration form using HTML. The form should collect the
 
 ##output: 
 ![Student Form Screenshot](./assets/output1.png)
-![Student Form Screenshot](./assets/output2.png)
+
 
 Learning Outcomes
  Gained understanding of HTML5 input types and their purposes.
