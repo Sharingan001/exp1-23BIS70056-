@@ -30,8 +30,8 @@ Create a basic student registration form using HTML. The form should collect the
 ![Student Form Screenshot](./assets/html3.png)
 
 ##output: 
-![Student Form Screenshot](./assets/output2.png)
 ![Student Form Screenshot](./assets/ouput3.png)
+![Student Form Screenshot](./assets/output4.png)
 
 
 
