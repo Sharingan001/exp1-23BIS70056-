@@ -23,14 +23,16 @@ Create a basic student registration form using HTML. The form should collect the
 ---
 
 ## Code
-![Student Form Screenshot](./assets/html.png)
+![Student Form Screenshot](./assets/html1.png)
 
-![Student Form Screenshot](./assets/style1.png)
+![Student Form Screenshot](./assets/html2.png)
 
-![Student Form Screenshot](./assets/style2.png)
+![Student Form Screenshot](./assets/html3.png)
 
 ##output: 
-![Student Form Screenshot](./assets/output1.png)
+![Student Form Screenshot](./assets/ouput1.png)
+![Student Form Screenshot](./assets/output2.png)
+
 
 
 Learning Outcomes
